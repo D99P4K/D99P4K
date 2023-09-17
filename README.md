@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D99P4K
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,C++.
-- 💞️ I’m looking to collaborate on Script
+- 📲 I’m looking to collaborate on Script
 - 📫 How to reach me - DM me
 
 <!---
